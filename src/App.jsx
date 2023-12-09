@@ -1,7 +1,7 @@
 import { Routes, Route } from 'react-router-dom'
 import Navbar from './commponet/Navbar'
 import Contact from './commponet/Contact'
-import Home from './commponet/home'
+import Home from './component/home';
 import RegistrationForm from './commponet/RegistrationForm'
 
 import './App.css'
